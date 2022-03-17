@@ -19,7 +19,7 @@ class menu extends StatelessWidget {
             children: <Widget>[
               Container(
                 padding: const EdgeInsets.all(12),
-                width: 600,
+                width: 1500,
                 height: 80,
                 child: TextButton(
                     style: TextButton.styleFrom(
@@ -39,7 +39,7 @@ class menu extends StatelessWidget {
               ),
               Container(
                 padding: const EdgeInsets.all(12),
-                width: 600,
+                width: 1500,
                 height: 80,
                 child: TextButton(
                     style: TextButton.styleFrom(
@@ -59,7 +59,7 @@ class menu extends StatelessWidget {
               ),
               Container(
                 padding: const EdgeInsets.all(12),
-                width: 600,
+                width: 1500,
                 height: 80,
                 child: TextButton(
                     style: TextButton.styleFrom(
@@ -79,7 +79,7 @@ class menu extends StatelessWidget {
               ),
               Container(
                 padding: const EdgeInsets.all(12),
-                width: 600,
+                width: 1500,
                 height: 80,
                 child: TextButton(
                     style: TextButton.styleFrom(
@@ -99,7 +99,7 @@ class menu extends StatelessWidget {
               ),
               Container(
                 padding: const EdgeInsets.all(12),
-                width: 600,
+                width: 1500,
                 height: 80,
                 child: TextButton(
                     style: TextButton.styleFrom(

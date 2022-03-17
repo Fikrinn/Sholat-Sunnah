@@ -25,7 +25,7 @@ class solatied extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Container(
-                            width: 300,
+                            width: 600,
                             height: 250,
                             margin: EdgeInsets.all(40),
                             decoration: BoxDecoration(

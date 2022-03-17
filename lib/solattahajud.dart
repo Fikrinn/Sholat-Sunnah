@@ -25,13 +25,13 @@ class solattahajud extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Container(
-                            width: 300,
-                            height: 250,
+                            width: 600,
+                            height: 200,
                             margin: EdgeInsets.all(40),
                             decoration: BoxDecoration(
                               image: DecorationImage(
                                   image:
-                                      AssetImage('assets/images/sebmakan.jpg'),
+                                      AssetImage('assets/images/solattahajudd.png'),
                                   fit: BoxFit.cover),
                               gradient: LinearGradient(
                                   colors: [Colors.white, Colors.white]),

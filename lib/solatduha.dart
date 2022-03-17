@@ -25,7 +25,7 @@ class solatduha extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Container(
-                            width: 300,
+                            width: 400,
                             height: 250,
                             margin: EdgeInsets.all(40),
                             decoration: BoxDecoration(
